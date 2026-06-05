@@ -13,8 +13,8 @@ Je suis étudiant en 1re année de BUT Informatique à l'IUT Robert Schuman, à 
 | Python     | IntelliJ IDEA      |
 | HTML       | Linux              |
 | CSS        | Windows            |
-| JavaScript |                    |
-| C++        |                    |
+| JavaScript |                    
+| C++        |                    
 
 
 

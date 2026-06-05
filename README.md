@@ -1,16 +1,22 @@
-## Hi there 👋
+# Yurtseven Hasan 
+Bienvenue sur mon profil Github 
+Je suis étudiant en 1er année de BUT Informatique à l'IUT Robert Schuman, à Illkirch.
 
-<!--
-**hyyu8068-ux/hyyu8068-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <u>Mes compétences en cours de consolidation :</u> 
 
-Here are some ideas to get you started:
+Langages :               Outils :
+- C#                     - Visual Studio Code
+- Java                   - Visual Code
+- Python                 - IntelliJ DEA
+- HTML                   - Linux 
+- CSS                    - Windows 
+- JavaScript
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+

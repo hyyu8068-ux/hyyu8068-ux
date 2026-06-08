@@ -1,4 +1,4 @@
-# Yurtseven Hasan
+# Hasan Yurtseven
 
 Bienvenue sur mon profil GitHub.
 
